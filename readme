@@ -1,0 +1,23 @@
+
+
+silver execution order
+1) silver_geo
+2) silver_users
+3) silver_user_pref
+4) silver_referrals
+5) silver_devices
+6) silver_promotions
+7) silver_orders
+8) silver_mkt_redeem
+9) silver_line_orders
+10) silver_status_history
+11) silver_events
+12) silver_payment_attempts
+13) silver_marketing_attribute
+14) silver_marketing_cost
+
+
+1) dim_date
+2) dim_channel
+3) dim_user
+4) dim_device
